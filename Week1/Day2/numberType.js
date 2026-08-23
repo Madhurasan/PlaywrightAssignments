@@ -21,3 +21,6 @@ function printNumberType(num){
 }
 
 printNumberType(number);
+
+a=10;
+console.log(typeof(a));
