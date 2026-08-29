@@ -1,0 +1,23 @@
+{
+  "name": "playwrightassignments",
+  "version": "1.0.0",
+  "description": "This for savind Assignments on the Playwright that I'm learning with TestLeaf and to share them with my mentors to validate and correct me.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhurasan/PlaywrightAssignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Madhurasan/PlaywrightAssignments/issues"
+  },
+  "homepage": "https://github.com/Madhurasan/PlaywrightAssignments#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  }
+}
